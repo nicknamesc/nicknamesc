@@ -6,7 +6,7 @@
 
 ---
 
-![ghstats](https://github-readme-stats.vercel.app/api?username=NicknameSC&theme=dark&show_icons=true&theme=slatered)
+![ghstats](https://github-readme-stats.vercel.app/api?username=NicknameSC&theme=white&show_icons=true)
 ![ghstats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamesc)
 
 ---
