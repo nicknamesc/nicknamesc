@@ -8,6 +8,7 @@
 
 ![ghstats](https://github-readme-stats.vercel.app/api?username=NicknameSC&theme=white&show_icons=true)
 ![ghstats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicknamesc)
+![](https://komarev.com/ghpvc/?username=nicknamesc&color=green)
 
 ---
 
