@@ -5,7 +5,7 @@
 ### I made the Nitebun Bot (Invite here: http://nickname.gq/nitebun)
 
 - Contact me on: 
-#Email: nicknamebusiness@gmail.com or Twitter DMs: https://twitter.com/NicknameSC
+# Email: nicknamebusiness@gmail.com or Twitter DMs: https://twitter.com/NicknameSC
 
 ---
 
