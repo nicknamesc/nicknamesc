@@ -1,11 +1,10 @@
-### Hello I am a Fortnite Dataminer/Leaker 💻
+### Hello I am a Fortnite Dataminer 💻
 
-### Most of my repos are private so you can't steal from me. 😅
+### Most of my repos are private so you can't steal from me.
 
 ### I made the Nitebun Bot (Invite here: http://nickname.gq/nitebun)
 
-- Contact me on: 
-- Email: nicknamebusiness@gmail.com or Twitter DMs: https://twitter.com/NicknameSC
+- Contact me via Twitter DMs: https://twitter.com/NicknameSC
 
 ---
 
