@@ -2,7 +2,7 @@
 
 ### Most of my repos are private so you can't steal from me.
 
-### I made the Nitebun Bot (Invite here: http://nickname.gq/nitebun)
+### I made the Nitebun Bot
 
 - Contact me via Twitter DMs: https://twitter.com/NicknameSC
 
